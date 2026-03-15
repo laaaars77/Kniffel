@@ -25,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "laaaars77"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;laaaars77&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/laaaars77/Kniffel",
-    "accountId": "180967fb-aa09-46de-b41a-1880f4812ffd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/laaaars77/Kniffel&quot;,
+    &quot;accountId&quot;: &quot;180967fb-aa09-46de-b41a-1880f4812ffd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -45,23 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for test_kniffel.TestKniffel.test_ApplyStrategy.executor": "Run",
-    "Python tests.Python tests for test_kniffel.TestKniffel.test_PlayKniffel.executor": "Run",
-    "Python tests.Python tests for test_kniffel.TestKniffel.test_ThrowDice.executor": "Run",
-    "Python tests.Python tests for test_kniffel.test_ThrowDie.executor": "Run",
-    "Python tests.Python tests in test_kniffel.py.executor": "Run",
-    "Python.JensFormula.executor": "Run",
-    "Python.Kniffel.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_kniffel.TestKniffel.test_ApplyStrategy.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_kniffel.TestKniffel.test_PlayKniffel.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_kniffel.TestKniffel.test_ThrowDice.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_kniffel.test_ThrowDie.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_kniffel.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JensFormula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kniffel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.JensFormula">
     <configuration name="JensFormula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
