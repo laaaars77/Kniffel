@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="087a35ad-d4ee-4257-8c3e-cf2b241803a7" name="Changes" comment="First draft of full algorithm">
-      <change afterPath="$PROJECT_DIR$/test_kniffel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kniffel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kniffel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    <list default="true" id="087a35ad-d4ee-4257-8c3e-cf2b241803a7" name="Changes" comment="Final algorithm implemented and tested">
+      <change afterPath="$PROJECT_DIR$/JensFormula.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773584781265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final algorithm implemented and tested">
+      <option name="closed" value="true" />
+      <created>1773587166005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773587166005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +226,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Implement outer monte carlo routine" />
     <MESSAGE value="First draft of full algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="First draft of full algorithm" />
+    <MESSAGE value="Final algorithm implemented and tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final algorithm implemented and tested" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
